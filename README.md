@@ -24,7 +24,7 @@ Unlike traditional speech-to-text demos, this project enables **real-time multi-
 
 > 📹 **Demo Video**
 
-https://github.com/your-repo/assets/demo.mp4
+https://github.com/user-attachments/assets/83d3f79b-4af8-44c1-9157-127a1105f48f
 
 ---
 
